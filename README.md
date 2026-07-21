@@ -2,8 +2,7 @@
 # <span style="color:rgb(213,80,0)">Multispectral Image Processing</span>
 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](<https://github.com/drLKeen/WHOI-multispectral-2026.git>)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=drLKeen/WHOI-multispectral-2026)
 ## Background
 
 Use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. This module covers importing, visualizing, and analyzing data. It also includes examples of analyzing temperature anomaly data and Arctic sea ice data, as well as using multispectral imaging data to characterize drought in Northern California.
